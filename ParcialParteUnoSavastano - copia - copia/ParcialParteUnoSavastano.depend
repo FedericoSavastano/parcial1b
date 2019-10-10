@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1570715296 source:d:\federicosavastano\parcialparteunosavastano - copia\equipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"equipos.h"
+	"jugadores.h"
+	"referi.h"
+	"partido.h"
+	"funciones.h"
+	"validaciones.h"
+
+1570715174 d:\federicosavastano\parcialparteunosavastano - copia\equipos.h
+
+1570714466 d:\federicosavastano\parcialparteunosavastano - copia\jugadores.h
+
+1570714509 d:\federicosavastano\parcialparteunosavastano - copia\referi.h
+
+1570714487 d:\federicosavastano\parcialparteunosavastano - copia\partido.h
+
+1570710501 d:\federicosavastano\parcialparteunosavastano - copia\funciones.h
+
+1570715546 d:\federicosavastano\parcialparteunosavastano - copia\validaciones.h
+
+1570713328 source:d:\federicosavastano\parcialparteunosavastano - copia\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"equipos.h"
+	"jugadores.h"
+	"referi.h"
+	"partido.h"
+	"funciones.h"
+	"validaciones.h"
+
+1570713327 source:d:\federicosavastano\parcialparteunosavastano - copia\jugadores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"equipos.h"
+	"jugadores.h"
+	"referi.h"
+	"partido.h"
+	"funciones.h"
+	"validaciones.h"
+
+1570715468 source:d:\federicosavastano\parcialparteunosavastano - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"equipos.h"
+	"jugadores.h"
+	"referi.h"
+	"partido.h"
+	"funciones.h"
+	"validaciones.h"
+
+1570713344 source:d:\federicosavastano\parcialparteunosavastano - copia\partido.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"equipos.h"
+	"jugadores.h"
+	"referi.h"
+	"partido.h"
+	"funciones.h"
+	"validaciones.h"
+
+1570714579 source:d:\federicosavastano\parcialparteunosavastano - copia\referi.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"equipos.h"
+	"jugadores.h"
+	"referi.h"
+	"partido.h"
+	"funciones.h"
+	"validaciones.h"
+
+1570715348 source:d:\federicosavastano\parcialparteunosavastano - copia\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"equipos.h"
+	"jugadores.h"
+	"referi.h"
+	"partido.h"
+	"funciones.h"
+	"validaciones.h"
+

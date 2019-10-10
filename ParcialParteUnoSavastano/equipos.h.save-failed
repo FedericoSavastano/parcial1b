@@ -1,0 +1,23 @@
+#include <stdlib.h>
+ #include <string.h>
+ #include <stdio.h>
+
+typedef struct{
+    int codigoEquipo;
+    char nombre[MAX_NOMBRE_EQUIPO];
+    char localidad[MAX_LOCALIDAD_EQUIPO];
+    int estaVacio;  /**CERO PARA CIERTO, 1 PARA FALSO*/
+
+
+}eEquipo;
+
+typedef struct{
+    int dia;
+    int mes;
+    int anio;
+
+}eFecha;
+
+
+int agregarEquipo (eEquipo* listaequipo, int cantidad, int codigo, char nombre[],char localidad[], int lugarVacio);
+
